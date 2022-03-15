@@ -16,6 +16,9 @@ Follow these steps to open this sample in a Codespace:
 For more info, check out the [GitHub documentation](https://docs.github.com/en/free-pro-team@latest/github/developing-online-with-codespaces/creating-a-codespace#creating-a-codespace).
 
 ### VS Code Remote - Containers
+
+If you have Docker already installed just follow the [try out](http://insiders.vscode.dev/redirect?url=vscode-insiders://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/microsoft/vscode-remote-try-java) link to open the repository locally in a development container. Following the link will install the Remote containers extension if needed and clone the source code in a Docker Volume. 
+
 Follow these steps to open this sample in a container using the VS Code Remote - Containers extension:
 
 1. If this is your first time using a development container, please ensure your system meets the pre-reqs (i.e. have Docker installed) in the [getting started steps](https://aka.ms/vscode-remote/containers/getting-started).
