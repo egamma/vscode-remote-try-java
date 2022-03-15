@@ -17,7 +17,7 @@ For more info, check out the [GitHub documentation](https://docs.github.com/en/f
 
 ### VS Code Remote - Containers
 
-If you have Docker already installed just follow the [try out](http://insiders.vscode.dev/redirect?url=vscode-insiders://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/microsoft/vscode-remote-try-java) link to open the repository locally in a development container. Following the link will install the Remote containers extension if needed and clone the source code in a Docker Volume. 
+If you have Docker already installed you can select the [open in devcontainer](http://insiders.vscode.dev/redirect?url=vscode-insiders://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/microsoft/vscode-remote-try-java) link. This will install the Remote containers extension if needed and clone the source code in a Docker Volume. 
 
 Follow these steps to open this sample in a container using the VS Code Remote - Containers extension:
 
